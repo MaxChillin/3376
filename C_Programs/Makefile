@@ -1,4 +1,4 @@
-TARGETS=dotprod_mutex dotprod_serial hello hellothread hole1 lscat myCat myLs noHole1 myShell simple-cat simple-ls simple-sh simple-sh1 workbench zachHole1 client conServerThread
+TARGETS=dotprod_mutex dotprod_serial hello hellothread hole1 lscat myCat myLs noHole1 myShell simple-cat simple-ls simple-sh simple-sh1 workbench client conServerThread
 
 CROSS_TOOL =
 CC_CPP = $(CROSS_TOOL)g++
